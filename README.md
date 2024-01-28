@@ -16,7 +16,7 @@
   - ***Note: Don't wanna do this? Fine! - Use*** **[/ahpmini]**
 
 ## Installation
-Download [AutoHoodPop.lua](https://github.com/morimotoindustries/AutoHoodPop/releases/download/v1.2.2-release/AutoHoodPop.lua) and place it inside the "moonloader" folder located in your GTA:SA Install Folder. The first time you launch GTA:SA a configuration directory and file will be created for the modification.
+Download the .lua file and place it inside the "moonloader" folder located in your GTA:SA Install Folder. The first time you launch GTA:SA a configuration directory and file will be created for the modification.
 
 ### Modification File & Folder Structure
 ```
@@ -41,19 +41,5 @@ moonloader
 
 - **[/ahphealth]** - Allowed Health Range - 250 HP -> 999 HP
 
-## Contributing
-Please contact [Masaharu Morimoto#2302](https://litelink.at/masaharu) through Discord if you would like to contribute to this project. Pull requests are also welcome however, cannot be guaranteed to be added to the official project.
-
-### Bugs, Errors, Bounties
-Please contact [Masaharu Morimoto#2302](https://litelink.at/masaharu) through Discord or on the HZRP forums if you encounter any bugs or errors. I am more than willing to check it out for you. Please provide screenshots of the console and your game with chat visible if possible. ***Press "`" to open the console***
-
-If you find a critical bug, ***especially security related***, you will be paid a **minimum** sum of ***$20,000HZRP*** plus a bonus depending on severity.
-
-## Author
-- [Masaharu Morimoto](https://litelink.at/masaharu)
-
 ### Special Thanks
 - [Brad Ringer](https://forums.hzgaming.net/member.php/34885-Brad-Ringer) - Consulting & Boilerplate Only - No Script Use/Design/Implementation/Legal Responsibility or Involvement
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
